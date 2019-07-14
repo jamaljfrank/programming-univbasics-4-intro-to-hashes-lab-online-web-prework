@@ -3,11 +3,11 @@ def new_hash
 end
 
 def my_hash
-  my_hash = {"excited_for" => "Firem Emblem"}
+  my_hash = {"excited_for" => "Fire Emblem"}
 end
 
 def pioneer
-  pioneer = {:name] = "Grace Hopper" 
+  pioneer = {:name => "Grace Hopper"} 
 end
 
 def id_generator
