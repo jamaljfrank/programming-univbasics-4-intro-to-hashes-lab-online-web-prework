@@ -1,5 +1,5 @@
 def new_hash
-  kh_weapons = {sora
+  kh_weapons = {sora => keyblade, 
 end
 
 def my_hash
