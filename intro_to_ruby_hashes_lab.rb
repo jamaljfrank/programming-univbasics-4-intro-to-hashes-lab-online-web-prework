@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  my_hash = {"excited_for" => 
+  my_hash = {"excited_for" => "Firem Emblem"}
 end
 
 def pioneer
