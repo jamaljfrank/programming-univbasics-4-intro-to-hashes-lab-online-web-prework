@@ -1,5 +1,5 @@
 def new_hash
-  new 
+  kh_weapons
 end
 
 def my_hash
