@@ -1,5 +1,5 @@
 def new_hash
-  kh_weapons = {"Sora" => keyblade, "Donald" => wand, "Goofy" => shield}
+  
 end
 
 def my_hash
