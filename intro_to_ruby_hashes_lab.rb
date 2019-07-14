@@ -7,7 +7,7 @@ def my_hash
 end
 
 def pioneer
-  pioneer = {:name 
+  pioneer[:name 
 end
 
 def id_generator
