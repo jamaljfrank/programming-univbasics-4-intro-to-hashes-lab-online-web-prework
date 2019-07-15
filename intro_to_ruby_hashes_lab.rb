@@ -16,6 +16,7 @@ def id_generator
 end
 
 def my_hash_creator(key, value)
+  my_hash_creator = Hash.new
   my_hash_creator[:name] = "Grace Hopper"
   
 end
